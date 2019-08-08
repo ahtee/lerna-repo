@@ -1,0 +1,2 @@
+# Ignore Lerna console output
+lerna-debug.log
